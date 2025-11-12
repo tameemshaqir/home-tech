@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "383374763958",
+    "project_id": "home-tech-d2961",
+    "storage_bucket": "home-tech-d2961.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383374763958:android:219c1dd2428f8d12b2c317",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeKjxxclLLHVTKTY1zYNIy5YGV7G99TRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
